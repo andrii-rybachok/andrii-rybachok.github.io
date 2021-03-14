@@ -9,20 +9,10 @@
 			<td colspan="2" heigth="150" align="right" hsapce="5">
 			<fon size ="5" color="Maroon">Web Deco</h1></font>
 			</tr><tr>
-			<td colspan="2>
-				<font size ="4"><b>
-				<a href="#">Наші послуги</a>&nbsp;&nbsp;<a href="#">Про нас</a>&nbsp;&nbsp;
-				<a href="#">Інформація</a>&nbsp;&nbsp;<a href="#">Галерея робіт</a>&nbsp;&nbsp;
-			</td>
+			<td colspan="2>????????????? ????</td>
 		</tr>
 		<tr>
-			<td width ="30%" valign ="top">
-				<font size="5" color="navy"><h2>Новини</h2></font>
-					<font size="5>
-			<ul>
-			
-			</ul>
-			</td>
+			<td width ="30%" valign ="top">???? ?????</td>
 			<td width = "70%">????? ?????</td>
 		</tr>
 		 <tr>
