@@ -7,7 +7,7 @@
 	<table border="1" align="center" cellpadding="10" width="70%">
 		<tr>
 			<td colspan="2" heigth="150" align="right" hsapce="5">
-			<fon size ="5" color="Maroon">Web Deco</h1></font>
+			<fon size ="5" color="Maroon">Сайт web=студії "Web-DECO"</h1></font>
 			</tr><tr>
 			<td colspan="2>
 				<font size ="4"><b>
@@ -32,7 +32,9 @@
 			<td width = "70%">????? ?????</td>
 		</tr>
 		 <tr>
-			<td colspan ="2" valign="middle" height ="90">??? ?????</td>
+			<td colspan ="2" valign="middle" height ="90">
+			<font size="4">Сайт розробив "Автор"</font>
+			</td>
 		</tr>
 	</table>
 	</BODY>
